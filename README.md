@@ -1,4 +1,6 @@
 # AndroidChangeSkin
+这里是使用的hongyang的框架，自己做了一个Demo，以备日后使用方便。
+
 一种完全无侵入的换肤方式，支持插件式和应用内，无需重启Activity.
 
 与之前发布的ChangeSkin思路完全不同[https://github.com/hongyangAndroid/ChangeSkin](https://github.com/hongyangAndroid/ChangeSkin)，主要因为ChangeSkin依赖V4，V7的版本，以及干涉系统构造View的过程，于是希望找到一个几乎没有侵入的方式来实现，于是产生了AndroidChangeSkin，两个项目各有特点，目前两个项目代码都保留，欢迎试用与反馈。
